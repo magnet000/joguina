@@ -2,4 +2,4 @@ print("Hello world")
 
 print("Hello World")
 
-print("Cal push?")
+print("Fet el push")
