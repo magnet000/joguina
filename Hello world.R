@@ -1,5 +1,5 @@
 print("Hello world")
 
-print("Hello World")
+print("Hello World Two")
 
-print("Fet el push")
+print("Feel the push")
