@@ -1,5 +1,5 @@
-print("Hello world")
+print("Hello world32432")
 
-print("Hello World")
+print("Hello World32432")
 
-print("Fet el push")
+print("------------")
